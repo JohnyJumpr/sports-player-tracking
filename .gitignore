@@ -4,6 +4,7 @@ venv/
 # Ignorer les vidéos
 outputs/*.mp4
 data/*.mp4
+outputs_detection/*.mp4
 
 # Ignorer les caches Python
 __pycache__/
