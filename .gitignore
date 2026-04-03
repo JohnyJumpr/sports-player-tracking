@@ -9,3 +9,6 @@ outputs_detection/*.mp4
 # Ignorer les caches Python
 __pycache__/
 *.pyc
+
+# Ignorer les poids YOLO
+yolov8n.pt
