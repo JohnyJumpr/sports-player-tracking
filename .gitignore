@@ -1,1 +1,10 @@
+# Ignorer l'environnement virtuel
 venv/
+
+# Ignorer les vidéos
+outputs/*.mp4
+data/*.mp4
+
+# Ignorer les caches Python
+__pycache__/
+*.pyc
